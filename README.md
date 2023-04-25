@@ -10,5 +10,5 @@
 * R Programming (RStudio)
 * Tableau
 
-**Context:** Having just completed the Google Data Analytics Certificate, I decided to create an open-ended project that utilizes all the skills I had learned throughout the course. This is my passion project.
+**Context:** Having just completed the Google Data Analytics Certificate, I decided to create an open-ended project that utilizes all the skills I learned throughout the course. This is my passion project.
 __________________________________________________________________________
