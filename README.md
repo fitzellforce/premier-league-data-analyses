@@ -6,9 +6,7 @@
 
 **Methods:** I utilized a variety of softwares and platforms to perform these analyses and produce visualizations. My intention was to demonstrate competency in all the popular tools used for data analysis:
 * Spreadsheets (Excel)
-* SQL (MySQL)
 * R Programming (RStudio)
-* Tableau
 
-**Context:** Having just completed the Google Data Analytics Certificate, I decided to create an open-ended project that utilizes all the skills I learned throughout the course. This is my passion project.
+**Context:** Having just completed the Google Data Analytics Certificate, I decided to create an open-ended project that utilizes all the skills I learned throughout the course. This is my passion project. Currently, I have only analyzed long passing stats for every player in the league.
 __________________________________________________________________________
