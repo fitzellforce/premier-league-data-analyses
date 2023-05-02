@@ -10,3 +10,10 @@
 
 **Context:** Having just completed the Google Data Analytics Certificate, I decided to create an open-ended project that utilizes all the skills I learned throughout the course. Currently, I have only analyzed long passing stats for every player in the league.
 __________________________________________________________________________
+# Links to Important Files
+
+* [**R Code File**](https://github.com/fitzellforce/premier-league-data-analyses/blob/main/premier.league_long.passing.analysis.R)
+* [**Rmd / R Markdown File**](https://github.com/fitzellforce/premier-league-data-analyses/blob/main/premier_league_data_analysis.Rmd)
+* [**PDF Version of Rmd File**](https://github.com/fitzellforce/premier-league-data-analyses/blob/main/premier_league_data_analysis_Rmd.pdf)
+* [**Excel Workbook**](https://github.com/fitzellforce/premier-league-data-analyses/blob/main/Player%20Stats%20per90.xlsx) that was imported into R
+* [**PNG Image of Viz**](https://github.com/fitzellforce/premier-league-data-analyses/blob/main/premier.league_long.passing.viz.png)
