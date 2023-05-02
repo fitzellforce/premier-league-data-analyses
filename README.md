@@ -8,7 +8,7 @@
 * Spreadsheets (Excel)
 * R Programming (RStudio)
 
-**Context:** Having just completed the Google Data Analytics Certificate, I decided to create an open-ended project that utilizes all the skills I learned throughout the course. Currently, I have only analyzed long passing stats for every player in the league.
+**Context:** Having just completed the Google Data Analytics Certificate, I decided to create an open-ended project that utilizes all the skills I learned throughout the course. Currently, I have only analyzed long passing stats for every player in the league, but I intend to add more analyses.
 __________________________________________________________________________
 ## Links to Important Files in This Repo
 
